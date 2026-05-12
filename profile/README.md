@@ -1,6 +1,6 @@
 # 👥 Kelompok B-18
 
-## 📋 Daftar Anggota
+## Daftar Anggota
 
 | NPM          | Nama                                   |
 |--------------|----------------------------------------|
