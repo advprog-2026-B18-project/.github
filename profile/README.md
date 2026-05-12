@@ -27,6 +27,8 @@
 
 ## Future Architecture - Deliverables G.2
 
+### Context Diagram
+[gambar/diagram konteks baru]
 
 ### Container Diagram
 [gambar/diagram arsitektur baru]
