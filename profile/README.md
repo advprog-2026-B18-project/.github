@@ -21,7 +21,7 @@
 ![current_container_diagram.png](current_container_diagram.png)
 
 ### Deployment Diagram
-[gambar/diagram]
+![current_deployment_diagram.png](current_deployment_diagram.png)
 
 ---
 
