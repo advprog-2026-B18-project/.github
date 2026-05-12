@@ -53,10 +53,8 @@ Pada tahap mitigation, kami memodifikasi arsitektur dengan menambahkan API Gatew
 
 ---
 
-## Individual Work - Commit 4
+## Individual Work
 
-### Component Diagram
-[diagram component milikmu]
-
-### Code Diagram
-[diagram code milikmu]
+### Order Service
+![order_service_container_diagram.png](order_service_container_diagram.png)
+![order_service_code_diagram.png](order_service_code_diagram.png)
