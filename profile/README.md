@@ -1,4 +1,4 @@
-# 👥 Kelompok B-18
+# Kelompok B-18
 
 ## Daftar Anggota
 
@@ -28,13 +28,13 @@
 ## Future Architecture - Deliverables G.2
 
 ### Context Diagram
-[gambar/diagram konteks baru]
+![future_context_diagram.png](future_context_diagram.png)
 
 ### Container Diagram
-[gambar/diagram arsitektur baru]
+![future_container_diagram.png](future_container_diagram.png)
 
 ### Deployment Diagram
-[gambar/diagram deployment baru]
+![current_deployment_diagram.png](current_deployment_diagram.png)
 
 ---
 
