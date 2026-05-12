@@ -9,16 +9,16 @@
 | 2406404913   | Zita Nayra Ardini                      |
 | 2406495760   | Raihana Auni Zakia                     |
 
----
+
 # Group Software Architecture
 
 ## Current Architecture of the Application (C4 Diagram) - Deliverable G.1
 
 ### Context Diagram
-[gambar/diagram]
+![current_context_diagram.png](current_context_diagram.png)
 
 ### Container Diagram
-[gambar/diagram]
+![current_container_diagram.png](current_container_diagram.png)
 
 ### Deployment Diagram
 [gambar/diagram]
