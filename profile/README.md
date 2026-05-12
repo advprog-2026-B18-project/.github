@@ -62,3 +62,8 @@ Pada tahap mitigation, kami memodifikasi arsitektur dengan menambahkan API Gatew
 ### Inventory Service
 ![inventory_service_component_diagram.png](inventory_service_component_diagram.png)
 ![inventory_service_code_diagram.png](inventory_service_code_diagram.png)
+
+
+### Payment Service
+![payment_service_component_diagram.png](payment_service_component_diagram.png)
+![payment_service_code_diagram.png](payment_service_code_diagram.png)
