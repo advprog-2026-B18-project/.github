@@ -56,7 +56,7 @@ Pada tahap mitigation, kami memodifikasi arsitektur dengan menambahkan API Gatew
 ## Individual Work
 
 ### Order Service
-![order_service_container_diagram.png](order_service_container_diagram.png)
+![order_service_container_diagram.png](order_service_component_diagram.png)
 ![order_service_code_diagram.png](order_service_code_diagram.png)
 
 ### Inventory Service
