@@ -34,7 +34,7 @@
 ![future_container_diagram.png](future_container_diagram.png)
 
 ### Deployment Diagram
-![current_deployment_diagram.png](current_deployment_diagram.png)
+![current_deployment_diagram.png](future_deployment_diagram.png)
 
 ---
 
